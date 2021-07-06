@@ -1,0 +1,27 @@
+{
+  "name": "basic-chat-app",
+  "version": "1.0.0",
+  "description": "This repository contains all the files created while i was learning socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridhar-5/Basic-chat-app.git"
+  },
+  "author": "Sridhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sridhar-5/Basic-chat-app/issues"
+  },
+  "homepage": "https://github.com/sridhar-5/Basic-chat-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.1.2"
+  }
+}
